@@ -1,4 +1,4 @@
-# Oi, eu sou o Felipe! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> - dev Java
+# Oi, eu sou o Felipe! 🙏 - dev Java
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas, continuo me atualizando nas tendências de tecnologias do mercado através de diversos cursos e Bootcamps. Nenhuma oportunidade de aprendizado pode ser descartada! Sou um eterno estudante.
 
