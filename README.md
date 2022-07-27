@@ -42,8 +42,8 @@ Tenho anos de experiência com implantação de sistemas e treinamento, levantam
 
 <div>
   <p>DIO: Bootcamp Carrefour Web Developer - 104h ✅</p>
-  <p>DIO: TQI Fullstack Developer - 125h ⌛</p>
-  <p>DIO: Santander Bootcamp Fullstack Developer - 120h ⌛</p>
+  <p>DIO: TQI Fullstack Developer - 125h ✅</p>
+  <p>DIO: Santander Bootcamp Fullstack Developer - 120h ✅</p>
 </div>
 
 ## 📚 &nbsp;Cursos
